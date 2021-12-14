@@ -1,0 +1,27 @@
+body{
+margin: 0;
+background: #222;
+font-family: 'Comic Sans', sans-serif;
+font-weight: 250;
+}
+
+.container {
+    width: 65%;
+    margin: 0 auto;
+}
+
+header{
+    background: #55d6aa;
+    
+}
+nav li{
+    display: inline-block;
+    margin-left: 70px
+    padding-top: 15px
+    
+}
+
+nav a{
+    color: #000
+    
+}
